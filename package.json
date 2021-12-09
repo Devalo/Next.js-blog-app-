@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "firebase": "^7.15.5",
-    "next": "9.4.4",
+    "next": "11.1.3",
     "react": "16.13.1",
     "react-dom": "16.13.1"
   }
